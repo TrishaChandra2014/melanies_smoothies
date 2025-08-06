@@ -1,0 +1,9 @@
+name: my-sis-app
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+    - streamlit
+    - snowflake-connector-python
+    - pandas
+    - matplotlib
